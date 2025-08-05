@@ -36,14 +36,14 @@ This dashboard provides a comprehensive visualization of key performance metrics
 
 ## 📁  Files Included
 
-- **`Call Center Performance – Full Power BI report (original, with data)`**
--  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Power_BI_Foundever_Final%20Report.pbix'>Power_BI_Foundever_Final_Report.pbix</a>
+- **`Power BI file with complete report(original, with data)`**
+-  <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pbix'>BlinkIt-Grocery-Sales Project.pbix</a>
 
 - **`Data source used for the analysis `**
--  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> data/Clean_Raw_Data.xlsx </a>
+-  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> BlinkIT Grocery Data.xlsx </a>
 
 - **` Exported version of the dashboard visuals `** 
-- <a href='https://github.com/BrishtiSutradhar/Foundever-Call-Center-Analysis/blob/main/Power_BI_Foundever_Final%20Report_PDF.pdf'>exports/Power_BI_Foundever_Final.pdf</a>
+- <a href='https://github.com/BrishtiSutradhar/Powerbi-blinkit-sales-analysis/blob/main/BlinkIt%20Project.pdf'>exports/BlinkIt Project.pdf</a>
 
 ---
 
